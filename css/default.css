@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+p{
+    font-size: 50pt;
+    color: black;
+}
+
+#rainbow{
+    width: 200px;
+    height: 100px;
+}
